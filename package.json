@@ -16,5 +16,13 @@
     "lodash": "^4.17.21"
   },
   "devDependencies": {},
-  "keywords": []
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HughLau1/NodeJS_Tutorial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HughLau1/NodeJS_Tutorial/issues"
+  },
+  "homepage": "https://github.com/HughLau1/NodeJS_Tutorial#readme"
 }
